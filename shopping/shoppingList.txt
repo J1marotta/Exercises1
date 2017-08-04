@@ -1,0 +1,7 @@
+Eggs
+Milk
+Bread
+Wine
+Potatoes
+Whiskey
+Print
